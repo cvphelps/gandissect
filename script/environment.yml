@@ -13,7 +13,7 @@ dependencies:
   - torchvision=0.2.1
   - connexion=1.5
   - pyyaml=3.12
-  - scipy>=1.1.0
+  - scipy=1.1.0
   - scikit-image>=0.14.0
   - tqdm=4.24.0
   - flask-cors
