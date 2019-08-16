@@ -6,6 +6,7 @@ channels:
   - defaults
 dependencies:
   # CUDA-enabled pytorch
+  - wandb
   - python=3.6
   - cudatoolkit=9.0
   - cudnn=7.1.2
